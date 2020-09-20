@@ -20,6 +20,12 @@
  onclick="window.location.href='https://docs.google.com/document/d/16EZVRVM1FyOaVxgXr8lohKnDLJXR5JERPBA52hAMkPM/edit?usp=sharing';">
       Click Here to find out more about Jack
     </button>
+    
+     <button
+ onclick="window.location.href='https://www.youtube.com/c/JackMcLeanYT';">
+      Jack Mclean on YouTube
+    </button>
+    
   </body>
 </html>
 </html>
