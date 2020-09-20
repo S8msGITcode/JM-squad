@@ -16,6 +16,7 @@
 
 	</body>
 <p/ style="font-family: 'Raleway', sans-serif; font-size:15"> What is JM Squad? <p/>
+
  <button
  onclick="window.location.href='https://docs.google.com/document/d/16EZVRVM1FyOaVxgXr8lohKnDLJXR5JERPBA52hAMkPM/edit?usp=sharing';">
       Click Here to find out more about Jack
@@ -25,6 +26,11 @@
  onclick="window.location.href='https://www.youtube.com/c/JackMcLeanYT';">
       Jack Mclean on YouTube
     </button>
+
+    <button
+    onclick="window.location.href='https://jackmcleanyt.teemill.com/';">
+         Jack Mclean merchandise
+       </button>
     
   </body>
 </html>
