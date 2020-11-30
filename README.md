@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 # JM-squad
 JM Squad (otherwise known as Jack Mclean)
 Is an gaming YouTuber.
